@@ -1,0 +1,10 @@
+Website=https://app2.truweight.in/m/presentation?email=venkatesh@truweight.in
+phoneNumber = 8129872213
+Browser=Chrome
+PageLoadTimeOut=240
+ImplicitWait=20
+ExplicitWait=60
+Logger.level=INFO
+DataBase.Type=
+DataBase.Type=
+DataBase.ConnectionStr=
